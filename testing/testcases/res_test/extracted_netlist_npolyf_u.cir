@@ -1,0 +1,340 @@
+
+* cell npolyf_u
+* pin I1_default_MINUS
+* pin I1_default_PLUS
+* pin I1_0_0_0_0_0_0_R0_PLUS
+* pin I1_0_2_2_1_0_0_R0_MINUS
+* pin I1_0_0_0_0_0_0_R0_MINUS
+* pin I1_0_2_2_1_0_0_R0_PLUS
+* pin I1_0_0_0_1_0_0_R0_PLUS
+* pin I1_0_0_0_1_0_0_R0_MINUS
+* pin I1_0_2_2_0_0_0_R0_MINUS
+* pin I1_0_2_2_0_0_0_R0_PLUS
+* pin I1_0_0_1_0_0_0_R0_PLUS
+* pin I1_0_0_1_0_0_0_R0_MINUS
+* pin I1_0_0_1_1_0_0_R0_PLUS
+* pin I1_0_0_1_1_0_0_R0_MINUS
+* pin I1_0_2_1_1_0_0_R0_MINUS
+* pin I1_0_0_2_0_0_0_R0_MINUS
+* pin I1_0_0_2_0_0_0_R0_PLUS
+* pin I1_0_2_1_1_0_0_R0_PLUS
+* pin I1_0_0_2_1_0_0_R0_PLUS
+* pin I1_0_0_2_1_0_0_R0_MINUS
+* pin I1_0_2_1_0_0_0_R0_MINUS
+* pin I1_0_2_1_0_0_0_R0_PLUS
+* pin I1_0_1_0_0_0_0_R0_PLUS
+* pin I1_0_1_0_0_0_0_R0_MINUS
+* pin I1_0_2_0_1_0_0_R0_MINUS
+* pin I1_0_1_0_1_0_0_R0_PLUS
+* pin I1_0_1_0_1_0_0_R0_MINUS
+* pin I1_0_2_0_1_0_0_R0_PLUS
+* pin I1_0_1_1_0_0_0_R0_PLUS
+* pin I1_0_1_1_0_0_0_R0_MINUS
+* pin I1_0_1_1_1_0_0_R0_PLUS
+* pin I1_0_2_0_0_0_0_R0_MINUS
+* pin I1_0_1_1_1_0_0_R0_MINUS
+* pin I1_0_2_0_0_0_0_R0_PLUS
+* pin I1_0_1_2_0_0_0_R0_PLUS
+* pin I1_0_1_2_0_0_0_R0_MINUS
+* pin I1_0_1_2_1_0_0_R0_MINUS
+* pin I1_0_1_2_1_0_0_R0_PLUS
+* pin I1_1_2_2_1_0_0_R0_MINUS
+* pin I1_1_0_0_0_0_0_R0_PLUS
+* pin I1_1_2_2_1_0_0_R0_PLUS
+* pin I1_1_0_0_0_0_0_R0_MINUS
+* pin I1_1_0_0_1_0_0_R0_PLUS
+* pin I1_1_0_0_1_0_0_R0_MINUS
+* pin I1_1_2_2_0_0_0_R0_MINUS
+* pin I1_1_0_1_0_0_0_R0_PLUS
+* pin I1_1_2_2_0_0_0_R0_PLUS
+* pin I1_1_0_1_0_0_0_R0_MINUS
+* pin I1_1_0_1_1_0_0_R0_PLUS
+* pin I1_1_2_1_1_0_0_R0_MINUS
+* pin I1_1_0_1_1_0_0_R0_MINUS
+* pin I1_1_2_1_1_0_0_R0_PLUS
+* pin I1_1_0_2_0_0_0_R0_PLUS
+* pin I1_1_0_2_0_0_0_R0_MINUS
+* pin I1_1_0_2_1_0_0_R0_PLUS
+* pin I1_1_2_1_0_0_0_R0_MINUS
+* pin I1_1_0_2_1_0_0_R0_MINUS
+* pin I1_1_1_0_0_0_0_R0_PLUS
+* pin I1_1_2_1_0_0_0_R0_PLUS
+* pin I1_1_1_0_0_0_0_R0_MINUS
+* pin I1_1_2_0_1_0_0_R0_MINUS
+* pin I1_1_1_0_1_0_0_R0_PLUS
+* pin I1_1_2_0_1_0_0_R0_PLUS
+* pin I1_1_1_0_1_0_0_R0_MINUS
+* pin I1_1_1_1_0_0_0_R0_PLUS
+* pin I1_1_1_1_0_0_0_R0_MINUS
+* pin I1_1_1_1_1_0_0_R0_PLUS
+* pin I1_1_2_0_0_0_0_R0_MINUS
+* pin I1_1_2_0_0_0_0_R0_PLUS
+* pin I1_1_1_1_1_0_0_R0_MINUS
+* pin I1_1_1_2_0_0_0_R0_PLUS
+* pin I1_1_1_2_0_0_0_R0_MINUS
+* pin I1_1_1_2_1_0_0_R0_MINUS
+* pin I1_1_1_2_1_0_0_R0_PLUS
+* pin I1_2_0_0_0_0_0_R0_PLUS
+* pin I1_2_0_0_0_0_0_R0_MINUS
+* pin I1_2_0_0_1_0_0_R0_PLUS
+* pin I1_2_0_0_1_0_0_R0_MINUS
+* pin I1_2_0_1_0_0_0_R0_PLUS
+* pin I1_2_0_1_0_0_0_R0_MINUS
+* pin I1_2_0_1_1_0_0_R0_PLUS
+* pin I1_2_0_1_1_0_0_R0_MINUS
+* pin I1_2_0_2_0_0_0_R0_MINUS
+* pin I1_2_0_2_0_0_0_R0_PLUS
+* pin I1_2_0_2_1_0_0_R0_PLUS
+* pin I1_2_0_2_1_0_0_R0_MINUS
+* pin I1_2_1_0_0_0_0_R0_PLUS
+* pin I1_2_1_0_0_0_0_R0_MINUS
+* pin I1_2_1_0_1_0_0_R0_PLUS
+* pin I1_2_1_0_1_0_0_R0_MINUS
+* pin I1_2_1_1_0_0_0_R0_PLUS
+* pin I1_2_1_1_0_0_0_R0_MINUS
+* pin I1_2_1_1_1_0_0_R0_PLUS
+* pin I1_2_1_1_1_0_0_R0_MINUS
+* pin I1_2_1_2_0_0_0_R0_PLUS
+* pin I1_2_1_2_0_0_0_R0_MINUS
+* pin I1_2_1_2_1_0_0_R0_PLUS
+* pin I1_2_1_2_1_0_0_R0_MINUS
+* pin I1_2_2_0_0_0_0_R0_PLUS
+* pin I1_2_2_0_0_0_0_R0_MINUS
+* pin I1_2_2_0_1_0_0_R0_PLUS
+* pin I1_2_2_0_1_0_0_R0_MINUS
+* pin I1_2_2_1_0_0_0_R0_PLUS
+* pin I1_2_2_1_0_0_0_R0_MINUS
+* pin I1_2_2_1_1_0_0_R0_PLUS
+* pin I1_2_2_1_1_0_0_R0_MINUS
+* pin I1_2_2_2_0_0_0_R0_PLUS
+* pin I1_2_2_2_0_0_0_R0_MINUS
+* pin I1_2_2_2_1_0_0_R0_PLUS
+* pin I1_2_2_2_1_0_0_R0_MINUS
+* pin gf180mcu_gnd
+.SUBCKT npolyf_u 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
++ 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50
++ 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76
++ 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101
++ 102 103 104 105 106 107 108 109 110 111
+* net 1 I1_default_MINUS
+* net 2 I1_default_PLUS
+* net 3 I1_0_0_0_0_0_0_R0_PLUS
+* net 4 I1_0_2_2_1_0_0_R0_MINUS
+* net 5 I1_0_0_0_0_0_0_R0_MINUS
+* net 6 I1_0_2_2_1_0_0_R0_PLUS
+* net 7 I1_0_0_0_1_0_0_R0_PLUS
+* net 8 I1_0_0_0_1_0_0_R0_MINUS
+* net 9 I1_0_2_2_0_0_0_R0_MINUS
+* net 10 I1_0_2_2_0_0_0_R0_PLUS
+* net 11 I1_0_0_1_0_0_0_R0_PLUS
+* net 12 I1_0_0_1_0_0_0_R0_MINUS
+* net 13 I1_0_0_1_1_0_0_R0_PLUS
+* net 14 I1_0_0_1_1_0_0_R0_MINUS
+* net 15 I1_0_2_1_1_0_0_R0_MINUS
+* net 16 I1_0_0_2_0_0_0_R0_MINUS
+* net 17 I1_0_0_2_0_0_0_R0_PLUS
+* net 18 I1_0_2_1_1_0_0_R0_PLUS
+* net 19 I1_0_0_2_1_0_0_R0_PLUS
+* net 20 I1_0_0_2_1_0_0_R0_MINUS
+* net 21 I1_0_2_1_0_0_0_R0_MINUS
+* net 22 I1_0_2_1_0_0_0_R0_PLUS
+* net 23 I1_0_1_0_0_0_0_R0_PLUS
+* net 24 I1_0_1_0_0_0_0_R0_MINUS
+* net 25 I1_0_2_0_1_0_0_R0_MINUS
+* net 26 I1_0_1_0_1_0_0_R0_PLUS
+* net 27 I1_0_1_0_1_0_0_R0_MINUS
+* net 28 I1_0_2_0_1_0_0_R0_PLUS
+* net 29 I1_0_1_1_0_0_0_R0_PLUS
+* net 30 I1_0_1_1_0_0_0_R0_MINUS
+* net 31 I1_0_1_1_1_0_0_R0_PLUS
+* net 32 I1_0_2_0_0_0_0_R0_MINUS
+* net 33 I1_0_1_1_1_0_0_R0_MINUS
+* net 34 I1_0_2_0_0_0_0_R0_PLUS
+* net 35 I1_0_1_2_0_0_0_R0_PLUS
+* net 36 I1_0_1_2_0_0_0_R0_MINUS
+* net 37 I1_0_1_2_1_0_0_R0_MINUS
+* net 38 I1_0_1_2_1_0_0_R0_PLUS
+* net 39 I1_1_2_2_1_0_0_R0_MINUS
+* net 40 I1_1_0_0_0_0_0_R0_PLUS
+* net 41 I1_1_2_2_1_0_0_R0_PLUS
+* net 42 I1_1_0_0_0_0_0_R0_MINUS
+* net 43 I1_1_0_0_1_0_0_R0_PLUS
+* net 44 I1_1_0_0_1_0_0_R0_MINUS
+* net 45 I1_1_2_2_0_0_0_R0_MINUS
+* net 46 I1_1_0_1_0_0_0_R0_PLUS
+* net 47 I1_1_2_2_0_0_0_R0_PLUS
+* net 48 I1_1_0_1_0_0_0_R0_MINUS
+* net 49 I1_1_0_1_1_0_0_R0_PLUS
+* net 50 I1_1_2_1_1_0_0_R0_MINUS
+* net 51 I1_1_0_1_1_0_0_R0_MINUS
+* net 52 I1_1_2_1_1_0_0_R0_PLUS
+* net 53 I1_1_0_2_0_0_0_R0_PLUS
+* net 54 I1_1_0_2_0_0_0_R0_MINUS
+* net 55 I1_1_0_2_1_0_0_R0_PLUS
+* net 56 I1_1_2_1_0_0_0_R0_MINUS
+* net 57 I1_1_0_2_1_0_0_R0_MINUS
+* net 58 I1_1_1_0_0_0_0_R0_PLUS
+* net 59 I1_1_2_1_0_0_0_R0_PLUS
+* net 60 I1_1_1_0_0_0_0_R0_MINUS
+* net 61 I1_1_2_0_1_0_0_R0_MINUS
+* net 62 I1_1_1_0_1_0_0_R0_PLUS
+* net 63 I1_1_2_0_1_0_0_R0_PLUS
+* net 64 I1_1_1_0_1_0_0_R0_MINUS
+* net 65 I1_1_1_1_0_0_0_R0_PLUS
+* net 66 I1_1_1_1_0_0_0_R0_MINUS
+* net 67 I1_1_1_1_1_0_0_R0_PLUS
+* net 68 I1_1_2_0_0_0_0_R0_MINUS
+* net 69 I1_1_2_0_0_0_0_R0_PLUS
+* net 70 I1_1_1_1_1_0_0_R0_MINUS
+* net 71 I1_1_1_2_0_0_0_R0_PLUS
+* net 72 I1_1_1_2_0_0_0_R0_MINUS
+* net 73 I1_1_1_2_1_0_0_R0_MINUS
+* net 74 I1_1_1_2_1_0_0_R0_PLUS
+* net 75 I1_2_0_0_0_0_0_R0_PLUS
+* net 76 I1_2_0_0_0_0_0_R0_MINUS
+* net 77 I1_2_0_0_1_0_0_R0_PLUS
+* net 78 I1_2_0_0_1_0_0_R0_MINUS
+* net 79 I1_2_0_1_0_0_0_R0_PLUS
+* net 80 I1_2_0_1_0_0_0_R0_MINUS
+* net 81 I1_2_0_1_1_0_0_R0_PLUS
+* net 82 I1_2_0_1_1_0_0_R0_MINUS
+* net 83 I1_2_0_2_0_0_0_R0_MINUS
+* net 84 I1_2_0_2_0_0_0_R0_PLUS
+* net 85 I1_2_0_2_1_0_0_R0_PLUS
+* net 86 I1_2_0_2_1_0_0_R0_MINUS
+* net 87 I1_2_1_0_0_0_0_R0_PLUS
+* net 88 I1_2_1_0_0_0_0_R0_MINUS
+* net 89 I1_2_1_0_1_0_0_R0_PLUS
+* net 90 I1_2_1_0_1_0_0_R0_MINUS
+* net 91 I1_2_1_1_0_0_0_R0_PLUS
+* net 92 I1_2_1_1_0_0_0_R0_MINUS
+* net 93 I1_2_1_1_1_0_0_R0_PLUS
+* net 94 I1_2_1_1_1_0_0_R0_MINUS
+* net 95 I1_2_1_2_0_0_0_R0_PLUS
+* net 96 I1_2_1_2_0_0_0_R0_MINUS
+* net 97 I1_2_1_2_1_0_0_R0_PLUS
+* net 98 I1_2_1_2_1_0_0_R0_MINUS
+* net 99 I1_2_2_0_0_0_0_R0_PLUS
+* net 100 I1_2_2_0_0_0_0_R0_MINUS
+* net 101 I1_2_2_0_1_0_0_R0_PLUS
+* net 102 I1_2_2_0_1_0_0_R0_MINUS
+* net 103 I1_2_2_1_0_0_0_R0_PLUS
+* net 104 I1_2_2_1_0_0_0_R0_MINUS
+* net 105 I1_2_2_1_1_0_0_R0_PLUS
+* net 106 I1_2_2_1_1_0_0_R0_MINUS
+* net 107 I1_2_2_2_0_0_0_R0_PLUS
+* net 108 I1_2_2_2_0_0_0_R0_MINUS
+* net 109 I1_2_2_2_1_0_0_R0_PLUS
+* net 110 I1_2_2_2_1_0_0_R0_MINUS
+* net 111 gf180mcu_gnd
+* device instance $1 r0 *1 402.91,436.8 npolyf_u
+R$1 108 107 111 2480 npolyf_u L=400U W=50U
+* device instance $9 r0 *1 460.51,436.8 npolyf_u
+R$9 109 110 111 38.75 npolyf_u L=50U W=400U
+* device instance $17 r0 *1 287.91,184.8 npolyf_u
+R$17 103 104 111 930 npolyf_u L=150U W=50U
+* device instance $20 r0 *1 230.31,84 npolyf_u
+R$20 101 102 111 310 npolyf_u L=50U W=50U
+* device instance $21 r0 *1 345.51,184.8 npolyf_u
+R$21 105 106 111 103.333333333 npolyf_u L=50U W=150U
+* device instance $24 r0 *1 172.71,84 npolyf_u
+R$24 99 100 111 310 npolyf_u L=50U W=50U
+* device instance $25 r0 *1 121.31,436.8 npolyf_u
+R$25 96 95 111 376.96 npolyf_u L=60.8U W=50U
+* device instance $33 r0 *1 136.31,436.8 npolyf_u
+R$33 97 98 111 5.89 npolyf_u L=7.6U W=400U
+* device instance $41 r0 *1 90.91,184.8 npolyf_u
+R$41 91 92 111 141.36 npolyf_u L=22.8U W=50U
+* device instance $44 r0 *1 75.71,84 npolyf_u
+R$44 89 90 111 47.12 npolyf_u L=7.6U W=50U
+* device instance $45 r0 *1 106.11,184.8 npolyf_u
+R$45 93 94 111 15.7066666667 npolyf_u L=7.6U W=150U
+* device instance $48 r0 *1 48.51,436.8 npolyf_u
+R$48 85 86 111 1.24 npolyf_u L=1.6U W=400U
+* device instance $56 r0 *1 60.51,84 npolyf_u
+R$56 87 88 111 47.12 npolyf_u L=7.6U W=50U
+* device instance $57 r0 *1 30.11,184.8 npolyf_u
+R$57 81 82 111 3.30666666667 npolyf_u L=1.6U W=150U
+* device instance $60 r0 *1 39.31,436.8 npolyf_u
+R$60 83 84 111 79.36 npolyf_u L=12.8U W=50U
+* device instance $68 r0 *1 20.91,184.8 npolyf_u
+R$68 79 80 111 29.76 npolyf_u L=4.8U W=50U
+* device instance $71 r0 *1 2.71,84 npolyf_u
+R$71 75 76 111 9.92 npolyf_u L=1.6U W=50U
+* device instance $72 r0 *1 11.71,84 npolyf_u
+R$72 77 78 111 9.92 npolyf_u L=1.6U W=50U
+* device instance $73 r0 *1 402.91,47.53 npolyf_u
+R$73 47 45 111 34254.1436464 npolyf_u L=400U W=3.62U
+* device instance $81 r0 *1 460.51,47.53 npolyf_u
+R$81 41 39 111 535.220994475 npolyf_u L=50U W=28.96U
+* device instance $91 r0 *1 287.91,23.41 npolyf_u
+R$91 59 56 111 12845.3038674 npolyf_u L=150U W=3.62U
+* device instance $92 r0 *1 230.31,23.41 npolyf_u
+R$92 63 61 111 4281.7679558 npolyf_u L=50U W=3.62U
+* device instance $93 r0 *1 345.51,31.45 npolyf_u
+R$93 52 50 111 1427.25598527 npolyf_u L=50U W=10.86U
+* device instance $96 r0 *1 172.71,23.41 npolyf_u
+R$96 69 68 111 4281.7679558 npolyf_u L=50U W=3.62U
+* device instance $97 r0 *1 121.31,51.55 npolyf_u
+R$97 72 71 111 5206.62983425 npolyf_u L=60.8U W=3.62U
+* device instance $105 r0 *1 136.31,51.55 npolyf_u
+R$105 74 73 111 81.3535911602 npolyf_u L=7.6U W=28.96U
+* device instance $115 r0 *1 90.91,23.41 npolyf_u
+R$115 65 66 111 1952.48618785 npolyf_u L=22.8U W=3.62U
+* device instance $116 r0 *1 75.71,23.41 npolyf_u
+R$116 62 64 111 650.828729282 npolyf_u L=7.6U W=3.62U
+* device instance $117 r0 *1 106.11,31.45 npolyf_u
+R$117 67 70 111 216.942909761 npolyf_u L=7.6U W=10.86U
+* device instance $120 r0 *1 48.51,51.55 npolyf_u
+R$120 55 57 111 17.1270718232 npolyf_u L=1.6U W=28.96U
+* device instance $128 r0 *1 60.51,23.41 npolyf_u
+R$128 58 60 111 650.828729282 npolyf_u L=7.6U W=3.62U
+* device instance $129 r0 *1 30.11,31.45 npolyf_u
+R$129 49 51 111 45.6721915285 npolyf_u L=1.6U W=10.86U
+* device instance $132 r0 *1 39.31,51.55 npolyf_u
+R$132 54 53 111 1096.13259669 npolyf_u L=12.8U W=3.62U
+* device instance $142 r0 *1 20.91,23.41 npolyf_u
+R$142 46 48 111 411.049723757 npolyf_u L=4.8U W=3.62U
+* device instance $143 r0 *1 2.71,23.41 npolyf_u
+R$143 40 42 111 137.016574586 npolyf_u L=1.6U W=3.62U
+* device instance $144 r0 *1 11.71,23.41 npolyf_u
+R$144 43 44 111 137.016574586 npolyf_u L=1.6U W=3.62U
+* device instance $146 r0 *1 402.91,7.2 npolyf_u
+R$146 10 9 111 155000 npolyf_u L=400U W=0.8U
+* device instance $153 r0 *1 460.51,14.4 npolyf_u
+R$153 6 4 111 2421.875 npolyf_u L=50U W=6.4U
+* device instance $163 r0 *1 287.91,7.2 npolyf_u
+R$163 22 21 111 58125 npolyf_u L=150U W=0.8U
+* device instance $164 r0 *1 230.31,7.2 npolyf_u
+R$164 28 25 111 19375 npolyf_u L=50U W=0.8U
+* device instance $165 r0 *1 345.51,9.6 npolyf_u
+R$165 18 15 111 6458.33333333 npolyf_u L=50U W=2.4U
+* device instance $168 r0 *1 172.71,7.2 npolyf_u
+R$168 34 32 111 19375 npolyf_u L=50U W=0.8U
+* device instance $171 r0 *1 121.31,7.2 npolyf_u
+R$171 35 36 111 23560 npolyf_u L=60.8U W=0.8U
+* device instance $177 r0 *1 136.31,15.6 npolyf_u
+R$177 38 37 111 368.125 npolyf_u L=7.6U W=6.4U
+* device instance $187 r0 *1 90.91,7.2 npolyf_u
+R$187 29 30 111 8835 npolyf_u L=22.8U W=0.8U
+* device instance $188 r0 *1 75.71,7.2 npolyf_u
+R$188 26 27 111 2945 npolyf_u L=7.6U W=0.8U
+* device instance $189 r0 *1 106.11,9.6 npolyf_u
+R$189 31 33 111 981.666666667 npolyf_u L=7.6U W=2.4U
+* device instance $192 r0 *1 48.51,15.6 npolyf_u
+R$192 19 20 111 77.5 npolyf_u L=1.6U W=6.4U
+* device instance $200 r0 *1 60.51,7.2 npolyf_u
+R$200 23 24 111 2945 npolyf_u L=7.6U W=0.8U
+* device instance $201 r0 *1 30.11,9.6 npolyf_u
+R$201 13 14 111 206.666666667 npolyf_u L=1.6U W=2.4U
+* device instance $206 r0 *1 39.31,7.2 npolyf_u
+R$206 17 16 111 4960 npolyf_u L=12.8U W=0.8U
+* device instance $214 r0 *1 20.91,7.2 npolyf_u
+R$214 11 12 111 1860 npolyf_u L=4.8U W=0.8U
+* device instance $215 r0 *1 2.71,7.2 npolyf_u
+R$215 3 5 111 620 npolyf_u L=1.6U W=0.8U
+* device instance $216 r0 *1 11.71,7.2 npolyf_u
+R$216 7 8 111 620 npolyf_u L=1.6U W=0.8U
+* device instance $217 r0 *1 1.71,0.8 npolyf_u
+R$217 2 1 111 620 npolyf_u L=1.6U W=0.8U
+.ENDS npolyf_u
